@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--Colors for the style-->
+    <color name="colorPrimary">#EFEFEF</color>
+    <!--Colors for the style-->
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!--Colors for the style-->
+    <color name="colorAccent">#FF4081</color>
+<!--The color red for the text to change color to red-->
+    <color name="colorRed">#ff0000</color>
+    <!--The color blue for the text to change color to blue-->
+    <color name="colorBlue">#1000f4</color>
+    <!--The color green for the text to change color to green-->
+    <color name="colorGreen">#11ff00</color>
+    <!--The color for the background as shown in the example provided used color picking tool to get
+     as close as possible to original-->
+    <color name="colorBackground">#EEEEEE</color>
+</resources>

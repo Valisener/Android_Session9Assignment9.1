@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--Create menu item-->
+    <item
+        android:id="@+id/menu_Title"
+        android:title="@string/stringMenuTitle"
+        app:showAsAction="always|withText">
+        <menu>
+            <!--Create sub menu item for red -->
+        <item
+            android:id="@+id/menu_Red"
+            android:title="@string/stringMenuRed">
+        </item>
+            <!--Create sub menu item for green -->
+        <item
+            android:id="@+id/menu_Green"
+            android:title="@string/stringMenuGreen">
+        </item>
+            <!--Create sub menu item for blue -->
+        <item
+            android:id="@+id/menu_Blue"
+            android:title="@string/stringMenuBlue">
+        </item>
+    </menu>
+    </item>
+</menu>

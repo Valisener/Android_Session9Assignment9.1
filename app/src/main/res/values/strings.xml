@@ -1,0 +1,14 @@
+<resources>
+    <!--Application name could also mean its title-->
+    <string name="app_name">SubMenuXml</string>
+    <!--Text view that displays the text SubMenuXmlActivity!-->
+    <string name="textView">SubMenuXmlActivity!</string>
+    <!--Text that displays the menu title saying TEXT COLOR-->
+    <string name="stringMenuTitle">TEXT COLOR</string>
+    <!--Text that displays RED in the menu to change color to red-->
+    <string name="stringMenuRed">RED</string>
+    <!--Text that displays BLUE in the menu to change color to blue-->
+    <string name="stringMenuBlue">BLUE</string>
+    <!--Text that displays GREEN in the menu to change color to green-->
+    <string name="stringMenuGreen">GREEN</string>
+</resources>

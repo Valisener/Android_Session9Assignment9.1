@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customized background color for the toolbar . -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!--not really needed-->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!--Not really needed-->
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
